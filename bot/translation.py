@@ -20,57 +20,61 @@ class Translation(object):
 
     
     HELP_TEXT = """
-<u>💡 𝐇𝐞𝐥𝐩</u>
+💡 𝐁𝐎𝐓'𝐒 𝐇𝐄𝐋𝐏
 
-<i>
-📌 Add Me To Any Group And Make Me Admin
-📌 Add Me To Your Desired Channel
-</i>
+🚀ᴀᴅᴅ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴀᴅᴍɪɴ ʀɪɢʜᴛs.
 
-<b>🔰 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (Works Only In Groups) :<b>
+🛸ᴀᴅᴅ ʙᴏᴛ ᴛᴏ ᴄʜᴀɴɴᴇʟs ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʟɪɴᴋ ᴡɪᴛʜ ᴀʟʟ ᴀᴅᴍɪɴ ʀɪɢʜᴛs!🏟️
 
-    👉 <code>/add chat_id</code>
-                OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
-     <code>/add @Username</code>
-     
-    👉 <code>/del chat_id</code>
-                OR                  - To disconnect A Group With A Channel
-     <code>/del @Username</code>
-     
-    👉 <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
-    
-    👉 <code>/settings</code> -  This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly
+⭕ 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (ᴏɴʟʏ ᴡᴏʀᴋs ɪɴ ɢʀᴏᴜᴘ) 🏛️
 
-🔰 𝐒𝐄𝐓𝐓𝐈𝐍𝐆 𝐏𝐀𝐍𝐄𝐋
+📌 𝑵𝒐𝒕𝒆🗽
 
-            👉 <code>Channel</code> - Button Will Show You All The Connected Chats With The Group And Will Show Buttons Correspnding To There Order For Furthur Controls
+💈(ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ʙᴇ ᴀ ᴀᴜᴛʜ ᴜsᴇʀ ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs)💈
+
+[ ∆ ] /add ᴄʜᴀɴɴᴇʟɪᴅ/ᴄʜᴀɴɴᴇʟᴜsᴇʀɴᴀᴍᴇ - ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ(s) ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+
+📌 𝑵𝒐𝒕𝒆 : ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪᴅ ғʀᴏᴍ @ShowJsonBot,🤹
+
+[ ∆ ]  /del ᴄʜᴀɴɴᴇʟɪᴅ/ᴄʜᴀɴɴᴇʟᴜsᴇʀɴᴀᴍᴇ - ᴅɪsᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ғʀᴏᴍ ɢʀᴏᴜᴘ
+
+[ ∆ ] /delall - ʀᴇᴍᴏᴠᴇs ᴀʟʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟ(s) ᴀɴᴅ ғɪʟᴛᴇʀs ғʀᴏᴍ ɢʀᴏᴜᴘ!
+
+📌 𝑵𝒐𝒕𝒆 : ᴅᴏɴ'ᴛ ᴀᴅᴅ ᴄᴏᴍᴍᴀɴᴅ ᴅᴇʟᴇᴛᴇ ʙᴏᴛs ɪɴ ɢʀᴏᴜᴘ! ᴏᴛʜᴇʀᴡɪsᴇ, ᴅᴇʟᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ ᴡᴏɴᴛ ᴡᴏʀᴋ
+
+[ ∆ ]  /filterstats - ᴄʜᴇᴄᴋ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɴᴜᴍʙᴇʀ ᴏғ ғɪʟᴛᴇʀs.
+
+
+😅 ɴᴏ ɴᴇᴇᴅ ᴀᴅᴅ ᴇᴀᴄʜ ғɪʟᴛᴇʀ ᴀɢᴀɪɴ!📢
+
+📯ʙᴏᴛ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ sᴇᴀʀᴄʜ ғᴏʀ ʏᴏᴜʀ ғɪʟᴇs ᴀɴᴅ ɢɪᴠᴇ ʟɪɴᴋs ᴛᴏ ᴛʜᴀᴛ!🗡️
+
+
+© @UNI_MOVIES_BOX | @UM_Requests ⚡
+
+•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•"""
             
-            👉 <code>Filter Types</code> - Button Will Show You The 3 Filter Option Available In Bot... Pressing Each Buttons Will Either Enable or Disable Them And This Will Take Into Action As Soon As You Use Them Without The Need Of A Restart
 
-            👉 <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
-            
-            👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
-            
-<b><a href="https://t.me/ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
-"""
+
     
     ABOUT_TEXT = """
-📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
-\n○ ᴍʏ ɴᴀᴍᴇ : {}
+📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,⚔️
 
-○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
+[°=°][°=°][°=°][°=°][°=°][°=°][°=°][°=°]
 
-○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ 
+○ ᴍʏ ɴᴀᴍᴇ : υмя мονιєѕ ∂οиєя.
 
-○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
+○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ .
 
-○ ᴠᴇʀsɪᴏɴ : 1.0.0
+○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ .
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ 🥰](https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone)
+○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ .
 
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_bots](https://t.me/Ts_bots)
+○ ᴠᴇʀsɪᴏɴ : 1.0.0.
 
-**ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
+○ ᴄʀᴇᴀᴛᴏʀ : @Deeks_04_8 🇮🇳
 
-**[©ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛ](https://t.me/ts_bots)**
+•∆• ᴊᴏɪɴ  ➠ @UM_Requests •~•
+
+°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^
 """
