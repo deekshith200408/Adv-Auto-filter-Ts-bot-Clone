@@ -4,14 +4,20 @@
 
 class Translation(object):
     
-    START_TEXT = """
-😅 Hai {}, 
+    START_TEXT = """🤓🤹ʜɪ ʜᴇʟᴏ {},🧸
+••••••••••••••••••••••••••••••••••••••••••••••
+[ 🧐ɪ ᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴀᴅᴠᴀɴᴄᴇᴅ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ🏇..🧸ᴡᴏʀᴋɪɴɢ ᴏɴ @UM_Requests⚡ ]
 
-I am a filter bot with advanced features 
-currently working for @{} 
+🧬ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ /help....🔭
 
-⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 @{}
-"""   
+🔬🧲© ᴄʀᴇᴀᴛᴏʀ : @Deeks_04_8🎩,
+
+\/°•°•°•°•°•°•°•°•[ 🆄🅼🆁 ]°•°•°•°•°•°•°•°•°\/"""
+
+
+
+
+
     
     HELP_TEXT = """
 <u>💡 𝐇𝐞𝐥𝐩</u>
@@ -21,7 +27,7 @@ currently working for @{}
 📌 Add Me To Your Desired Channel
 </i>
 
-<b>🔰 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (Works Only In Groups) :</b>
+<b>🔰 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (Works Only In Groups) :<b>
 
     👉 <code>/add chat_id</code>
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
