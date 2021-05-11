@@ -184,7 +184,8 @@ async def auto_filter(bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"**😃 Got it \n\nYour Query 👉 {query}**",
+                text=f"[𝚄𝚁𝚂 𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝙼𝙾𝚅𝙸𝙴 𝚁𝙴𝙰𝙳𝚈 𝚃𝙾 𝙶𝙴𝚃 🤹].\n\nᴛᴏ ᴊᴏɪɴ ᴏᴜʀs ᴀʟʟ ᴄʜᴀɴɴᴇʟs ɢᴏ ᴛʜʀᴏᴜɢʜ..\n☞ ❱❱❱ ❴ @UNI_MOVIES_BOX ❵ \n\n𝚄𝚁𝚂 𝚃𝙴𝚇𝚃 ❱»{query}.\n\n🕵️ᴍᴀᴄᴛᴄʜᴇᴅ ᴛᴏ ɢɪᴠᴇ ᴏᴘᴛɪᴏɴs ᴄʟɪᴄᴋ ᴛʜᴛ ʙᴜᴛᴛᴀɴs ᴀɴᴅ ɢᴇᴛ ᴜʀs ғɪʟᴇ⏬⏬",
+
                 reply_markup=reply_markup,
                 parse_mode="markdown",
                 reply_to_message_id=update.message_id
