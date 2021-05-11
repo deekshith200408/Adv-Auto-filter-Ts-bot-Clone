@@ -13,15 +13,15 @@
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org",
-            "value": ""
+            "value": "2461443"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org",
-            "value": ""
+            "value": "8c9a7a069dc1869d2b3a383114ab6b41"
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "1751641624:AAHaZ5ST2ost2U790TrcRKgGhljezZSxhsc"
         },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
