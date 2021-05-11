@@ -71,15 +71,15 @@ You can deploy this bot anywhere.
 <i>**[Watch Deploying Tutorial...](https://youtu.be/zum9AUlOgtQ)**</i>
 
 <details><summary>Deploy To Heroku</summary>
-<p>[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deekshith200408/Adv-Auto-filter-Ts-bot-Clone)
-
+<p>
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
 <a href="https://youtu.be/xufAzeTLRIs"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 Deploy in your vps
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone/tree/main">
+<a href="https://heroku.com/deploy?template=(https://heroku.com/deploy?template=https://github.com/deekshith200408/Adv-Auto-filter-Ts-bot-Clone)
+">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
