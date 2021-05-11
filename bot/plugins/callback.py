@@ -65,7 +65,7 @@ async def cb_navg(bot, update: CallbackQuery):
     configs = await db.find_chat(chat_id)
     pm_file_chat = configs["configs"]["pm_fchat"]
     show_invite = configs["configs"]["show_invite_link"]
-    show_invite = (False if pm_file_chat == True else show_invite)
+    show_invite = (True if pm_file_chat == True else show_invite)
     
     results = FIND.get(query).get("results")
     leng = FIND.get(query).get("total_len")
